@@ -2,6 +2,8 @@
   "name": "react-framer-motion-gem",
   "version": "0.1.0",
   "private": true,
+  "author": "@wish9919",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
