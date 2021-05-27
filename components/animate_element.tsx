@@ -1,7 +1,7 @@
 import { motion, AnimationProps } from "framer-motion";
 
-const pathColor = "#064420";
-const shapeColor = "#064420";
+const pathColor = "#cdb480";
+const shapeColor = "#cdb480";
 
 const mainPathVariant: AnimationProps = {
   transition: {
