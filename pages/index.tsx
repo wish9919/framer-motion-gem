@@ -7,9 +7,6 @@ export default function Home() {
       className="relative flex items-center justify-center w-full h-screen flex-column"
     >
       <div className="text-center">
-        <span className="text-4xl font-medium" style={{ color: "#cdb480" }}>
-          Framer Motion SVG Animation 💎
-        </span>
         <div className="">
           <AnimateElement />
         </div>
